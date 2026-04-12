@@ -348,4 +348,4 @@ and Beanstalk installs dependencies itself.
 3. 🚢 Run your containerized application locally.
 4. ☁️ Deploy your containerized application to AWS Elastic Beanstalk, and access it live on the web.
 
-![image.png](AWS%20Beanstalk/image%201.png)
+![image.png](https://github.com/Mayank1242/AWS_Beanstalk_Session/blob/main/dockerproject.png)
