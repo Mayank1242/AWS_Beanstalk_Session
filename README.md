@@ -1,6 +1,6 @@
 # AWS Beanstalk
 
-![image.png](AWS%20Beanstalk/image.png)
+![image.png](attachment:217cd87c-ad87-4ca7-b2cd-c0cd98a20edc:image.png)
 
 ## What is AWS Elastic Beanstalk?
 
