@@ -21,7 +21,7 @@ Behind the scenes, Beanstalk automatically sets up:
 - Monitoring (CloudWatch)
 - Deployment pipeline basics
 
-So instead of managing infrastructure manually, **you focus only on application code** 🚀
+So instead of managing infrastructure manually, **you focus only on application code** 
 
 ---
 
@@ -115,7 +115,7 @@ Notification service
 
 User management API
 
-Beanstalk automatically scales instances based on traffic 📈
+Beanstalk automatically scales instances based on traffic 
 
 ---
 
@@ -317,7 +317,7 @@ Choose:
 Application code → Local file → Upload ZIP
 ```
 
-Deployment works ✅
+Deployment works - yes
 
 ---
 
